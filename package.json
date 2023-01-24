@@ -1,6 +1,6 @@
 {
     "name": "fcc-learn-npm-package-json",
-    "author": "olufisayo Akindele Togun",
+    "author": "Olufisayo Akindele Togun",
     "dependencies": {
         "express": "^4.14.0"
     },
