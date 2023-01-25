@@ -1,7 +1,7 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "Olufisayo Akindele Togun",
-    "description": "My first backend experiment",
+    "description": "My first backend experiment, this is stressful",
     "dependencies": {
         "express": "^4.14.0"
     },
